@@ -1,0 +1,12 @@
+C:\Users\aokha\source\repos\ShoppingCart\Shop.DataModels\bin\Debug\netcoreapp3.1\Shop.DataModels.deps.json
+C:\Users\aokha\source\repos\ShoppingCart\Shop.DataModels\bin\Debug\netcoreapp3.1\Shop.DataModels.dll
+C:\Users\aokha\source\repos\ShoppingCart\Shop.DataModels\bin\Debug\netcoreapp3.1\Shop.DataModels.pdb
+C:\Users\aokha\source\repos\ShoppingCart\Shop.DataModels\obj\Debug\netcoreapp3.1\Shop.DataModels.csprojAssemblyReference.cache
+C:\Users\aokha\source\repos\ShoppingCart\Shop.DataModels\obj\Debug\netcoreapp3.1\Shop.DataModels.AssemblyInfoInputs.cache
+C:\Users\aokha\source\repos\ShoppingCart\Shop.DataModels\obj\Debug\netcoreapp3.1\Shop.DataModels.AssemblyInfo.cs
+C:\Users\aokha\source\repos\ShoppingCart\Shop.DataModels\obj\Debug\netcoreapp3.1\Shop.DataModels.csproj.CoreCompileInputs.cache
+C:\Users\aokha\source\repos\ShoppingCart\Shop.DataModels\obj\Debug\netcoreapp3.1\Shop.DataModels.dll
+C:\Users\aokha\source\repos\ShoppingCart\Shop.DataModels\obj\Debug\netcoreapp3.1\Shop.DataModels.pdb
+C:\Users\aokha\source\repos\ShoppingCart\Shop.DataModels\bin\Debug\netcoreapp3.1\Shop.DataModels.runtimeconfig.json
+C:\Users\aokha\source\repos\ShoppingCart\Shop.DataModels\bin\Debug\netcoreapp3.1\Shop.DataModels.runtimeconfig.dev.json
+C:\Users\aokha\source\repos\ShoppingCart\Shop.DataModels\obj\Debug\netcoreapp3.1\Shop.DataModels.genruntimeconfig.cache
